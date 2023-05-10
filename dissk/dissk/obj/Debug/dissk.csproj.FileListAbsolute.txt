@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\dissk\dissk\bin\Debug\dissk.exe.config
+C:\Users\User\source\repos\dissk\dissk\bin\Debug\dissk.exe
+C:\Users\User\source\repos\dissk\dissk\bin\Debug\dissk.pdb
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.Form1.resources
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.exe
+C:\Users\User\source\repos\dissk\dissk\obj\Debug\dissk.pdb
